@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#7B61FF"            # Neon Violet (Buttons)
+backgroundColor = "#12001F"         # Deepest Dark Purple (Main Background)
+secondaryBackgroundColor = "#1E1E2F" # Slightly Lighter Purple (Sidebar/Card Depth)
+textColor = "#FFFFFF"               # White Text
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
